@@ -1,0 +1,6 @@
+FOLDER NAMING CONVENTION
+
+Folder which have prefix DROID_[NAME_PROJECT] is for android project.
+The project is created using Android Studio.
+
+Example : DROID_MyFirstApp
